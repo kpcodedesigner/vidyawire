@@ -1,0 +1,755 @@
+
+/*************************************Media-Query 1991**********************************/
+@media (min-width: 1921px) {
+.popular-course-area .container-fluid {
+max-width: 1140px;
+padding-left: 15px; } }
+/*************************************Media-Query 1665**********************************/
+@media (max-width: 1665px) {
+.popular-course-area .container-fluid {
+max-width: 1140px;
+padding-left: 15px; } }
+/*************************************Media-Query 1600**********************************/
+@media (max-width: 1600px) {
+    
+.map-section .map-left-content {
+    padding-left: 265px;
+    }
+   .news-events-section .news-events-content {
+    padding-left: 245px !important;
+}
+#banner-section .carousel-caption {
+    left: 43.5%;
+}
+}
+
+@media (max-width: 1568px) {
+
+img.banner-img {
+    width: auto;
+    height: auto;
+}
+}
+
+
+/*************************************Media-Query 1440**********************************/
+@media (max-width: 1440px) {
+
+.our-products-section.vc_custom_1576903266684 {
+padding-bottom: 38px !important;
+}
+.glitters-section {
+    margin-top: 160px;
+}
+.map-section .map-left-content {
+    padding-left: 148px;
+}
+.news-events-section .news-events-content {
+    padding-left: 160px !important;
+}
+.inquiry .modal-dialog {
+    max-width: 80% !important;
+}
+#banner-section .carousel-caption {
+    left: 41%;
+}
+.banner-decs h1 {
+    width: 56%;
+}
+}
+/*************************************Media-Query 1200**********************************/
+@media (max-width: 1200px) {
+.vc_custom_1576668745706 {
+    padding-top: 99px !important;
+    padding-bottom: 99px !important;
+    padding-left: 65px !important;
+}
+section.vc_section.certificates .container {
+    width: 100%;
+    margin: 0px !important;
+    padding: 0px !important;
+    max-width: 100% !important;
+}
+.our-client-images img {
+    margin-right: 30px;
+    width: 140px;
+}
+
+ .news-events-content .vc_custom_1576908624509 {
+    padding-left: 64px !important;
+}
+
+.map-section .map-left-content {
+    padding-left: 30px;
+    padding-top: 89px;
+    padding-bottom: 88px;
+}
+.news-events-section .news-events-content {
+    padding-left: 32px !important;
+}
+.news-events-section.vc_custom_1577105424261 {
+    padding-bottom: 43px !important;
+}
+.banner-decs h1 {
+    width: 68%;
+}
+
+ }
+/*************************************Media-Query 1199**********************************/
+@media (max-width: 1199px) {
+.popular-course-area .container-fluid {
+max-width: 960px; } 
+
+.navbar-brand img {
+    padding-right: 10px;
+}
+.menu-item a.nav-link {
+    font-size: 13px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 15px !important;
+    text-transform: capitalize;
+}
+.news-on-page img.card-img-top {
+     width: 100%; 
+}
+.news-page-post-body h5.card-title::after {
+    margin-top: 350px;
+}
+.news-page-post-body h5.card-title, .news-page_recentpost-title {
+    margin-bottom: 30px;
+}
+
+.banner_desc_one h1 {
+    font-size: 60px;
+    font-family: Oswald;
+    font-weight: 600;
+    width: 70%;
+}
+
+}
+
+/*************************************Media-Query 1024**********************************/
+@media screen and (max-width: 1024px) {
+  
+section.certificates {
+    background-color: #fff;
+    height: unset;
+}
+.glitters-section{
+    margin-top: 100px;
+}
+.news-events-section.vc_custom_1577105424261 {
+    padding-top: 60px !important;
+}
+.glitters-section p {
+    font-size: 12px;
+}
+.glitter-right-content .wpb_content_element,.glitter-content-left p{
+    margin-bottom: 10px;
+}
+.glitters-section .read-more button{
+    padding: 14px 28px 14px 28px !important;
+}
+.our-client-images img {
+    margin-right: 20px;
+}
+.map-section  .map-left-content {
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+    padding-left: 50px !important;
+}
+.news-events-content .vc_custom_1576908566522 {
+    padding-left: 62px !important;
+}
+
+#carousel-122 .rpc-title {
+    font-size: 18px;
+    }
+img.product-image {
+    width: 290px;
+    }
+    .banner-decs h1 {
+    width: 80%;
+}
+#banner-section .carousel-caption {
+    top: 52%;
+}
+.certificates .certificate p {
+    font-size: 13px !important;
+}
+}
+
+/*************************************Media-Query 991**********************************/
+@media screen and (max-width: 991px) {
+    .career_form {
+    width: 100%;
+}
+.container.career_form {
+    width: 100%;
+}
+.page-footer .contact p {
+    font-size: 12px;
+ }
+.certificate.certificate-3,.certificate.certificate-4 {
+    margin-top: 00px;
+}
+.certificates .certificate {
+
+    padding: 15px 0px 15px 5px;
+}
+
+.certificates .certificate h3 {
+    font-size: 22px;
+}
+.certificates .certificate p {
+    font-size: 12px;
+}
+.glitter-image-with-content .vc_custom_1576900781905{
+    padding-top: 100px !important;
+}
+.glitters-section h3 {
+    font-size: 24px;
+    margin-bottom: 14px;
+}
+.glitters-section h2{
+    font-size: 24px;
+}
+.our-client-images img {
+    margin-bottom: 20px !important;
+}
+.article-pera p {
+    font-size: 12px !important;
+}
+h3.article-subhead{
+    font-size: 28px !important;
+}
+.news-events-section.vc_custom_1576908544613 {
+    padding-bottom: 44px !important;
+}
+
+li.menu-item.active :after {
+    content: '';
+    position: unset;
+    bottom: 0;
+    height: 3px;
+    background-color: #fff;
+    width: 52px;
+    margin-left: -50px;
+}
+.footer-desc p,#nav_menu-2 .menu-item a.nav-link,.recent p,.contact p {
+    font-size: 12px;
+    line-height: 20px;
+    }
+img.product-image {
+    width: 220px;
+    height: 210px;
+    }
+    .product-details h3 {
+    font-size: 18px;
+}
+.glitters-section p {
+    margin-bottom: 15px !important;
+}
+.view-products button,.glitters-section .read-more button,.newsletter .news-content .btn {
+    font-size: 15px !important;
+}
+.header-social-icons.ml-auto {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.news-page-post-body h5.card-title::after {
+    margin-top: 259px;
+}
+.recent-posts-for-newspage h5 {
+    font-family: poppins;
+    font-size: 14px;
+}
+h6.vc_custom_heading.contact-details {
+    font-size: 26px !important;
+    margin-bottom: 18px !important;
+}
+.address_img, .nub_img, .phone_img, .mail_img {
+    margin-right: 15px;
+}
+.addresh_Desc, .address_Desc p, .nub_Desc, .phone_Desc, .mail_Desc {
+    font-size: 12px;
+}
+.Contact-Details-card .vc_custom_1577335283369 {
+    padding-left: 25px !important;
+}
+
+
+.recent_img img {
+    width: 100%;
+    float: unset;
+    margin-bottom: 10px;
+    height: auto;
+}
+.recent {
+    display: block;
+    margin-bottom: 25px;
+}
+
+
+.banner_desc_one h1 {
+    width: 75%;
+    font-size: 45px;
+}
+.banner_desc_one p {
+    font-size: 28px;
+}
+#banner-section .banner-img {
+    height: 700px;
+}
+
+/*#banner-section .carousel-control-prev {*/
+/*    left: -30px;*/
+/*}*/
+/*#banner-section .carousel-control-next {*/
+/*    right: -29px;*/
+/*}*/
+
+#banner-section .carousel-caption {
+    left: 41%;
+    top: 55%;
+}
+
+}
+/*************************************Media-Query 768**********************************/
+@media screen and (max-width: 768px) {
+
+
+#carousel-122 .fixed-height-image {
+    height: 300px !important;
+}
+.map-section h3 {
+    font-size: 26px;
+    margin-bottom: 12px !important;
+}
+.recent-posts-for-newspage h5 {
+    font-size: 14px;
+}
+.banner-decs h1 {
+    width: 100%;
+}
+.banner-decs p {
+    font-size: 28px;
+}
+
+
+.banner_desc_one h1 {
+    width: 100%;
+}
+.banner_desc_one p {
+    font-size: 28px;
+}
+
+}
+/*************************************Media-Query 767**********************************/
+@media screen and (max-width: 767px) {
+    .career_form {
+    width: 100%;
+    margin: 0px auto;
+}
+.banner-decs {
+    padding-bottom: 37px;
+    padding-top: 50px;
+}
+.certificates .certificate {
+    height: 200px;
+}
+
+#banner-section .carousel-caption {
+    top: 50%;
+}
+
+
+.recent_img img {
+    width: 100px;
+    float: unset;
+    margin-bottom: 10px;
+    height: auto;
+}
+.recent {
+    display: inline-flex;
+    margin-bottom: 25px;
+}
+
+
+.map-section .map-left-content {
+    padding-top: 00px !important;
+    padding-bottom: 00px !important;
+    padding-left: 50px !important;
+    display: table-cell;
+    align-items: center;
+    vertical-align: middle;
+    position: absolute;
+    top: 25%;
+}
+.glitter-image img {
+    width: 100%;
+    height: auto !important;
+}
+#nav_menu-2 h2.widgettitle, h2.footer-recent-posts, h2.footer-contact-us, h2.footer-recent-title{
+    margin-bottom: 22px;    
+}
+.recent_img {
+    margin-top: 00px;
+}
+
+.certificates .right {
+    border-right: 00px;
+}
+.banner-decs h1 {
+    font-size: 42px;
+}
+.banner_desc_one h1 {
+    font-size: 42px;
+}
+.banner-decs p {
+    font-size: 20px !important;
+}
+.banner_desc_one p {
+    font-size: 20px !important;
+}
+.view-products button {
+    padding: 7px 14px 7px 14px !important;
+    font-size: 15px !important;
+}
+.glitters-section .read-more button {
+    padding: 7px 14px 7px 14px !important;
+    font-size: 15px !important;
+}
+.glitter-image-with-content .vc_custom_1576900781905 {
+    padding-top: 28px !important;
+}
+h3.our-client-subhead{
+    font-size: 22px !important;
+}
+.news-events-section.vc_custom_1576908544613 {
+    padding-bottom: 44px !important;
+    padding-top: 15px !important;
+}
+.wpcf7-form-control-wrap {
+    width: 75%;
+    }
+   .our-products-section.vc_custom_1576917947704 {
+    padding-bottom: 40px !important;
+}
+
+.glitter-image-with-content .vc_custom_1577100032202 {
+    padding-top: 50px !important;
+}
+.our-products-slider .car-caption {
+    min-height: 180px;
+}
+.news-page-post-body h5.card-title {
+    margin-bottom: 16px;
+}
+.news-page-post-body h5.card-title::after {
+    margin-top: 281px;
+}
+.contact-page-form {
+    padding-left: 00px !important;
+    margin-top:30px;
+}
+.material-content {
+    padding-top: 00px !important;
+}
+.our-2ndprocess {
+    margin-top: 30px !important;
+}
+.Contact-Details-card .vc_custom_1577335848061 {
+    max-width: unset;
+}
+.view-products a {
+    font-size: 14px !important;
+}
+.banner-decs h1 {
+    width: 74%;
+}
+
+}
+
+
+@media screen and (max-width: 600px) {
+    
+.recent_img img {
+    width: 60px;
+    height: 50px;
+    
+}
+
+#banner-section .carousel-control-prev {
+    left: 00px;
+}
+#banner-section .carousel-control-next {
+    right: 00px;
+}
+
+#banner-section .banner-img {
+    /* width: 100%; */
+    height: 500px;
+    background-size: contain;
+    background-position: left;
+}
+
+#banner-section .carousel-caption {
+    left: 45%;
+}
+.banner_desc_one h1 {
+    font-size: 30px;
+}
+.banner_desc_one p {
+    font-size: 18px !important;
+}
+
+.footer-desc p, #nav_menu-2 .menu-item a.nav-link, .recent p, .contact p {
+    font-size: 14px;
+    line-height: 20px;
+}
+.article-pera p {
+    font-size: 14px !important;
+}
+p {
+    font-size: 14px !important;
+}
+.certificates .certificate {
+    height: 250px;
+}
+.map-section .map-left-content {
+    text-align: center;
+    padding-left: 00px !important;
+    padding-right: 20px !important;
+}
+.wpcf7-form-control-wrap {
+    width: 100%;
+    margin-bottom: 20px;
+}
+.wpcf7-form-control-wrap {
+    width: 100% !important;
+}
+.newsletter .news-content .btn {
+    min-height: 50px;
+    border-radius: 0;
+    background: #006fdd;
+    color: #fff;
+    font-weight: 500;
+    font-family: poppins;
+    text-transform: uppercase;
+    width: 100%;
+}
+span.input-group-btn {
+    width: 100%;
+}
+ .banner-decs h1 {
+    width: 81%;
+}   
+}
+
+@media screen and (max-width: 580px) {
+    .contact-us-img, .mail-us-img {
+    float: unset;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.contact-us, .mail-us {
+    display: block;
+    margin: 0px auto;
+    text-align: center;
+}
+.mail-us {
+    display: block;
+}
+.banner-decs h1 {
+    width: 83%;
+}
+}
+
+/*************************************Media-Query 425**********************************/
+@media screen and (max-width: 425px) {
+    a.navbar-brand img {
+    width: 161px;
+}
+    
+.banner-decs {
+    padding-bottom: 30px;
+    padding-top: 50px;
+}
+.our-service-section h2{
+    font-size: 22px !important;
+}
+.our-products-section.vc_custom_1576903266684 .wpb_content_element{
+    margin-bottom: 50px !important;
+}
+.map-section  .map-left-content {
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+    padding-left: 20px !important;
+}
+.vc_custom_1576577706991 {
+    height: 500px;
+}
+.news-events-content .vc_custom_1576908566522 {
+    padding-left: 28px !important;
+}
+h3.newslatter-subhead{
+    font-size: 22px!important;
+}
+.wpcf7-form-control-wrap {
+    width: 69%;
+}
+h3.newslatter-subhead {
+    font-size: 18px!important;
+}
+.news-events-content .vc_custom_1576908624509 {
+    padding-left: 33px !important;
+}
+#carousel-122 .fixed-height-image {
+    height: 280px !important;
+}
+
+.map-section .map-left-content {
+    text-align: center;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+.news-page-post-body h5.card-title::after {
+    margin-left: -194px;
+    margin-top: 214px;
+}
+.news-page-post-body h5.card-title{
+    font-size: 26px;
+}
+.contact-page-btn {    
+    padding: 15px 15px 15px 15px !important;
+    font-size: 14px !important;
+}
+h3.materials-subhead,.our-process-subhead,.pakage-subhead,.permises-subhead{
+    font-size: 26px !important;
+}
+h3.materials-subhead::after {
+    margin-left: -352px !important;
+    margin-top: 29px;
+}
+.our-process-subhead::after{
+    margin-left: -232px !important;
+    margin-top: 26px !important;
+    }
+    h3.pakage-subhead::after {
+    margin-left: -119px !important;
+    margin-top: 32px;
+}.our-process-subhead::after, h3.materials-subhead::after, h3.pakage-subhead::after, h3.permises-subhead::after {
+    margin-left: -190px;
+    margin-top: 63px;
+}
+.banner-decs h1 {
+    font-size: 34px;
+    width: 100%;
+}
+.banner-decs p {
+    font-size: 14px !important;
+}
+.view-products a {
+    padding: 10px 20px 10px 20px !important;
+    font-size: 12px !important;
+}
+}
+/*************************************Media-Query 375**********************************/
+
+@media screen and (max-width: 375px) {
+.wpcf7-form-control-wrap {
+    width: 62%;
+}
+.navbar-brand img {
+    padding-right: 10px;
+}
+
+.view-products a {
+    padding: 08px 15px 8px 15px !important;
+    font-size: 12px !important;
+}
+.banner_desc_one h1 {
+    font-size: 24px;
+}
+.banner_desc_one p {
+    font-size: 14px !important;
+}
+#banner-section .banner-img {
+    height: 400px;
+}
+
+
+.copyright p, .powered p {
+    font-size: 12px;
+}
+h3.our-products-subhead{
+    font-size: 24px !important;
+    }
+    #carousel-122 .rpc-title {
+    font-size: 14px;
+}
+#carousel-122 .car-caption p {
+    font-size: 12px;
+}
+.wcp-carousel-main-wrap .slick-track a{
+    font-size: 14px;
+    }
+    .our-products-section.vc_custom_1576917947704 {
+    padding-bottom: 20px !important;
+}
+.news-page-post-body h5.card-title::after {
+    margin-top: 183px;
+}
+.banner-decs h1 {
+    font-size: 30px;
+    width: 100%;
+}
+.banner-decs p {
+    font-size: 12px !important;
+}
+.certificates .certificate {
+    height: 235px;
+}
+.certificates .certificate p {
+    font-size: 10px !important;
+}
+}
+
+@media screen and (max-width: 320px) {
+#carousel-122 .rpc-title {
+    font-size: 14px !important;
+}
+#carousel-122 .car-caption p {
+    font-size: 12px !important;
+    }
+    .our-products-slider .car-caption {
+    min-height: 225px;
+}
+.wpcf7-form-control-wrap {
+    width: 55%;
+}
+.newsletter .news-content input.form-control {
+    font-size: 12px;
+}
+h3.newslatter-subhead {
+    font-size: 16px!important;
+}
+.newsletter .news-content .btn {
+    font-size: 14px;
+}
+.banner-decs h1 {
+    font-size: 36px;
+}
+.banner-decs p {
+    font-size: 18px;
+}
+.copyright p, .powered p {
+    font-size: 10px;
+}
+.news-page-post-body h5.card-title::after {
+    margin-top: 152px;
+}
+}
